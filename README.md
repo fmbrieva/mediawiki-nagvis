@@ -19,6 +19,6 @@ This extension use the following software:
 - PHP Simple HTML DOM Parser at http://simplehtmldom.sourceforge.net/
 
 and works with:
-- Nagvis http://nagvis.org
+- NagVis http://nagvis.org
 - Icinga https://www.icinga.org/
 - Nagios https://www.nagios.org/
