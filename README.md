@@ -1,6 +1,6 @@
 # mediawiki-nagvis
 
-This is an extension for viewing **NagVis** maps in Mediawiki
+This is an extension for viewing [**NagVis**](http://nagvis.org) maps in Mediawiki
 
 Documentation can be found at [Mediawiki (Extension:Nagvis)](http://www.mediawiki.org/wiki/Extension:NagVis)
 
