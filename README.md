@@ -1,2 +1,15 @@
 # mediawiki-nagvis
-NagVis is an extension for add NagVis maps to MediaWiki pages. 
+
+This is an extension for viewing **NagVis** maps in Mediawiki
+
+Documentation can be found at http://www.mediawiki.org/wiki/Extension:NagVis
+
+There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:IcingaNagvis16
+
+# Installation
+
+- Download extension, extract files to a folder and rename folder as `NagVis`.
+- Upload `NagVis` folder to your extensions directory from the root of your MediaWiki installation.
+- Add `require_once "$IP/extensions/NagVis/NagVis.php";` to your `LocalSettings.php` file (near the end)
+
+(More details about installation at https://www.mediawiki.org/wiki/Extension:NagVis#Installation
