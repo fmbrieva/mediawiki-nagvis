@@ -12,7 +12,7 @@ Documentation can be found at [Mediawiki (Extension:Nagvis)](http://www.mediawik
 - Upload `NagVis` folder to your extensions directory from the root of your MediaWiki installation.
 - Add `require_once "$IP/extensions/NagVis/NagVis.php";` to your `LocalSettings.php` file (near the end)
 
-(More details about installation at [Extension:NagVis#installation] https://www.mediawiki.org/wiki/Extension:NagVis#Installation
+(More details about installation at [Extension:NagVis#installation](https://www.mediawiki.org/wiki/Extension:NagVis#Installation)
 
 # Screenshot (Mediawiki + NagVis extension)
 ![](https://upload.wikimedia.org/wikipedia/mediawiki/1/14/NagVis_Header.png)
