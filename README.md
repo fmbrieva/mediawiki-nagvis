@@ -23,5 +23,5 @@ and works with:
 - Icinga https://www.icinga.org/
 - Nagios https://www.nagios.org/
 
-# Screenshot
+# Screenshot (Mediawiki + NagVis extension)
 ![](https://upload.wikimedia.org/wikipedia/mediawiki/1/14/NagVis_Header.png)
