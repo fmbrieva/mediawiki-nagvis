@@ -17,6 +17,7 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 # Credits
 This extension use the following software:
 - PHP Simple HTML DOM Parser at http://simplehtmldom.sourceforge.net/
+
 and works with:
 - Nagvis http://nagvis.org
 - Icinga https://www.icinga.org/
