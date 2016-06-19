@@ -2,9 +2,9 @@
 
 This is an extension for viewing **NagVis** maps in Mediawiki
 
-Documentation can be found at http://www.mediawiki.org/wiki/Extension:NagVis
+Documentation can be found at [Mediawiki (Extension:Nagvis)](http://www.mediawiki.org/wiki/Extension:NagVis)
 
-There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:IcingaNagvis16
+[See a demo of NagVis extension](http://www.delegacionprovincial.com/mediawiki/index.php/Gestion_Online:IcingaNagvis16)
 
 # Installation
 
