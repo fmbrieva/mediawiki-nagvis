@@ -14,6 +14,9 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 
 (More details about installation at https://www.mediawiki.org/wiki/Extension:NagVis#Installation
 
+# Screenshot (Mediawiki + NagVis extension)
+![](https://upload.wikimedia.org/wikipedia/mediawiki/1/14/NagVis_Header.png)
+
 # Credits
 This extension use the following software:
 - PHP Simple HTML DOM Parser at http://simplehtmldom.sourceforge.net/
@@ -22,6 +25,3 @@ and works with:
 - NagVis http://nagvis.org
 - Icinga https://www.icinga.org/
 - Nagios https://www.nagios.org/
-
-# Screenshot (Mediawiki + NagVis extension)
-![](https://upload.wikimedia.org/wikipedia/mediawiki/1/14/NagVis_Header.png)
