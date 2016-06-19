@@ -13,3 +13,11 @@ There is a demo at http://www.delegacionprovincial.com/mediawiki/index.php/Gesti
 - Add `require_once "$IP/extensions/NagVis/NagVis.php";` to your `LocalSettings.php` file (near the end)
 
 (More details about installation at https://www.mediawiki.org/wiki/Extension:NagVis#Installation
+
+# Credits
+This extension use the following software:
+-PHP Simple HTML DOM Parser at http://simplehtmldom.sourceforge.net/
+and works with:
+-Nagvis http://nagvis.org
+-Icinga https://www.icinga.org/
+-Nagios https://www.nagios.org/
