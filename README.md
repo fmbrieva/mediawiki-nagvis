@@ -22,3 +22,6 @@ and works with:
 - NagVis http://nagvis.org
 - Icinga https://www.icinga.org/
 - Nagios https://www.nagios.org/
+
+# Screenshot
+![](https://upload.wikimedia.org/wikipedia/mediawiki/1/14/NagVis_Header.png)
